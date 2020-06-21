@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "name": "default",
+      "value": "CfDJ8AAAAAAAAAAAAAAAAAAAAACas_og38z54flNJ-X2-Pk69Bq_UdqdZ96ZPBZzSfjjXf5xjCKySbuKumyVwEzTZHUZ1TMqJ1KkSO5y5NuwOqBA4yHa83j4fajBlH0Ssi6LN2XSnZz5wO71a72izrYLFiqGOi7UwnNvaN1ULo5bP9EJHQ9VP8F2i1iGQoGa2MBTeQ",
+      "encrypted": true
+    }
+  ],
+  "hostName": "telegram-catdog-clf.azurewebsites.net",
+  "instanceId": "000000000000000000000000173FD44F",
+  "source": "runtime",
+  "decryptionKeyId": "AzureWebEncryptionKey=adYNTVzoS/KdITiRFS7N0/a+4enAi2mKq1SkNIpYiyo=;"
+}
