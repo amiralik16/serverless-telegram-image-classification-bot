@@ -1,0 +1,6 @@
+azure-functions
+tensorflow==1.13.1
+Pillow
+numpy
+python-telegram-bot
+requests
